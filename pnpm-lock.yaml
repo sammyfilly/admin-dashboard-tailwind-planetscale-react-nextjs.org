@@ -19,7 +19,7 @@ specifiers:
   next: 13.4.5
   next-auth: ^4.22.1
   postcss: ^8.4.24
-  prettier: ^2.8.8
+  prettier: ^3.0.0
   prop-types: ^15.8.1
   react: 18.2.0
   react-dom: 18.2.0
@@ -46,7 +46,7 @@ dependencies:
   next: 13.4.5_biqbaboplfbrettd7655fr4n2y
   next-auth: 4.22.1_ugijpnqf6lbyhti4zqjsnggl3q
   postcss: 8.4.24
-  prettier: 2.8.8
+  prettier: 3.0.3
   prop-types: 15.8.1
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
@@ -2579,9 +2579,9 @@ packages:
     engines: {node: '>= 0.8.0'}
     dev: false
 
-  /prettier/2.8.8:
-    resolution: {integrity: sha512-tdN8qQGvNjw4CHbY+XXk0JgCXn9QiF21a55rBe5LJAU+kDyC4WQn4+awm2Xfk2lQMk5fKup9XgzTZtGkjBdP9Q==}
-    engines: {node: '>=10.13.0'}
+  /prettier/3.0.3:
+    resolution: {integrity: sha512-L/4pUDMxcNa8R/EthV08Zt42WBO4h1rarVtK0K+QJG0X187OLo7l699jWw0GKuwzkPQ//jMFA/8Xm6Fh3J/DAg==}
+    engines: {node: '>=14'}
     hasBin: true
     dev: false
 
