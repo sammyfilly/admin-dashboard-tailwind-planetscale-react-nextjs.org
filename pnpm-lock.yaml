@@ -14,7 +14,7 @@ specifiers:
   eslint: 8.42.0
   eslint-config-next: 13.4.5
   js-cookie: ^3.0.5
-  kysely: ^0.25.0
+  kysely: ^0.26.0
   kysely-planetscale: ^1.3.0
   next: 13.4.5
   next-auth: ^4.22.1
@@ -41,8 +41,8 @@ dependencies:
   eslint: 8.42.0
   eslint-config-next: 13.4.5_tizxnkcvjrb4cldxgwq5h3lj5u
   js-cookie: 3.0.5
-  kysely: 0.25.0
-  kysely-planetscale: 1.3.0_tjzbzll6aigwkswoglxj5riv2a
+  kysely: 0.26.3
+  kysely-planetscale: 1.3.0_2j5h3erjyotchavcmecarsohhy
   next: 13.4.5_biqbaboplfbrettd7655fr4n2y
   next-auth: 4.22.1_ugijpnqf6lbyhti4zqjsnggl3q
   postcss: 8.4.24
@@ -2042,7 +2042,7 @@ packages:
       object.assign: 4.1.4
     dev: false
 
-  /kysely-planetscale/1.3.0_tjzbzll6aigwkswoglxj5riv2a:
+  /kysely-planetscale/1.3.0_2j5h3erjyotchavcmecarsohhy:
     resolution: {integrity: sha512-lAldOF+Yg2raVvRfyXjBqlZ63ONpNZRpfWUK9WrtEdVUIYJxOhbgzihYaRtb4lHVFNyAZyuSCvatEsK7hszcJg==}
     peerDependencies:
       '@planetscale/database': '*'
@@ -2050,11 +2050,11 @@ packages:
     dependencies:
       '@planetscale/database': 1.7.0
       date-fns: 2.30.0
-      kysely: 0.25.0
+      kysely: 0.26.3
     dev: false
 
-  /kysely/0.25.0:
-    resolution: {integrity: sha512-srn0efIMu5IoEBk0tBmtGnoUss4uwvxtbFQWG/U2MosfqIace1l43IFP1PmEpHRDp+Z79xIcKEqmHH3dAvQdQA==}
+  /kysely/0.26.3:
+    resolution: {integrity: sha512-yWSgGi9bY13b/W06DD2OCDDHQmq1kwTGYlQ4wpZkMOJqMGCstVCFIvxCCVG4KfY1/3G0MhDAcZsip/Lw8/vJWw==}
     engines: {node: '>=14.0.0'}
     dev: false
 
